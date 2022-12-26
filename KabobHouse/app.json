@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "rn-starter-1",
+    "slug": "rn-starter-1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/KabobHouseLogo.png",
+    "splash": {
+      "image": "./assets/KabobHouseLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/KabobHouseLogo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/KabobHouseLogo.png"
+    }
+  }
+}
